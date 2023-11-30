@@ -39,8 +39,7 @@ Exploration of SOFT ERROR MITIGATION IP by AMD in FPGA
 
 
 
-
- ![vio](https://github.com/dillibabuporlapothula/VL505_FPGA_PROJECT/assets/141803312/74213353-c366-42e7-bb3a-a94f537f14ed)
+  ![VIO](https://github.com/dillibabuporlapothula/VL505_FPGA_PROJECT/assets/141803312/79f11510-ab23-4217-9592-ee8fafc557bd)
 
 
 

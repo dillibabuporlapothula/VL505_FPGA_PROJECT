@@ -56,3 +56,25 @@ Exploration of SOFT ERROR MITIGATION IP by AMD in FPGA
     
   ![Monitor_interface](https://github.com/dillibabuporlapothula/VL505_FPGA_PROJECT/assets/141803312/4b7145dc-e002-4faa-8969-7ffd02029329)
 
+
+
+
+
+
+
+**Recorded explanation video ** -  https://iiitbac-my.sharepoint.com/:f:/r/personal/dillibabu_porlapothula_iiitb_ac_in/Documents/FPGA_PROJECT_SEM_IP?csf=1&web=1&e=9BL84W
+
+
+##References
+
+Violante, Massimo, Luca Sterpone, M. Ceschia, D. Bortolato, P. Bernardi, M. Sonza Reorda, and A. Paccagnella. "Simulation-based analysis of SEU effects in SRAM-based FPGAs." IEEE Transactions on Nuclear Science 51, no. 6 (2004): 3354-3359.
+
+https://www.xilinx.com/products/intellectual-property/sem.html
+
+https://docs.xilinx.com/r/en-US/pg036_sem
+
+https://digilent.com/reference/programmable-logic/basys-3/reference-manual
+
+
+
+

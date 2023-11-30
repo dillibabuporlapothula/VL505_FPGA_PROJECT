@@ -8,20 +8,29 @@ Exploration of SOFT ERROR MITIGATION IP by AMD in FPGA
 
  ### System level design example
 
-- Below is the block diagram of design example that comes with the SEM IP and which we have explored and implemented. 
+- Below is the block diagram of design example that comes with the SEM IP and which we have explored and implemented.
 
 
- ![Block-diagaram](https://github.com/dillibabuporlapothula/VL505_FPGA_PROJECT/assets/141803312/69dc9b24-6dcd-4692-b4cc-b9cefe5d67e3)
+  ![Block-diagaram](https://github.com/dillibabuporlapothula/VL505_FPGA_PROJECT/assets/141803312/69dc9b24-6dcd-4692-b4cc-b9cefe5d67e3)
 
 
 
  - The structure of code example is shown below
 
-   
 
-  ![Code-structure](https://github.com/dillibabuporlapothula/VL505_FPGA_PROJECT/assets/141803312/5410c2cd-381f-41d5-a7e5-451d300aeaaa)
+
+   ![Code-structure](https://github.com/dillibabuporlapothula/VL505_FPGA_PROJECT/assets/141803312/5410c2cd-381f-41d5-a7e5-451d300aeaaa)
+
 
 
  
+  ### Schematic
+  - In the schematic we can see all the sub-blocks that are there in the block diagram as modules.
 
+
+
+    ![Schematic](https://github.com/dillibabuporlapothula/VL505_FPGA_PROJECT/assets/141803312/29891cd0-7b13-4be0-8c36-65b5a38d7849)
+
+
+    
 
